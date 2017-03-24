@@ -1,0 +1,15 @@
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\bin\Debug\LeapDeskController.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\Debug\LeapDeskController.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\Debug\LeapDeskController_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\Debug\LeapDeskController_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\bin\Debug\LeapDeskController.exe
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\bin\Debug\LeapDeskController.pdb
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\bin\Debug\LeapCSharp.NET4.5.dll
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\Debug\LeapDeskController.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\Debug\LeapDeskController.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\Debug\LeapDeskController.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\Debug\LeapDeskController.exe
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\Debug\LeapDeskController.pdb

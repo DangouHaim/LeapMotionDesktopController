@@ -1,0 +1,15 @@
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\bin\x64\Debug\LeapDeskController.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\bin\x64\Debug\LeapDeskController.exe
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\bin\x64\Debug\LeapDeskController.pdb
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\x64\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\x64\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\x64\Debug\LeapDeskController_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\x64\Debug\LeapDeskController_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\x64\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\x64\Debug\LeapDeskController.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\x64\Debug\LeapDeskController.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\x64\Debug\LeapDeskController.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\x64\Debug\LeapDeskController.exe
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\x64\Debug\LeapDeskController.pdb
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\x64\Debug\LeapDeskController.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\bin\x64\Debug\LeapCSharp.NET4.5.dll
