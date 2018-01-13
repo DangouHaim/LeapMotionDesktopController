@@ -90,7 +90,7 @@ namespace LeapDeskController
                 {
                     if (h.IsRight)
                     {
-                        if(h.StabilizedPalmPosition.DistanceTo(h.Fingers[0].StabilizedTipPosition) < 72.5)
+                        if (h.StabilizedPalmPosition.DistanceTo(h.Fingers[0].StabilizedTipPosition) < 72.5)
                         {
                             if (h.PalmPosition.y > mousePos.Item2)
                             {
@@ -103,36 +103,41 @@ namespace LeapDeskController
                         }
                         else
                         {
+                            //mouse move
+                            if(h.Fingers[0].StabilizedTipPosition.DistanceTo(h.StabilizedPalmPosition) < 95)
+                            {
+                                if (h.PalmPosition.x > mousePos.Item1 - 6)
+                                {
+                                    System.Windows.Forms.Cursor.Position = new System.Drawing.Point(
+                                        System.Windows.Forms.Cursor.Position.X + (int)((h.PalmPosition.x - mousePos.Item1) * 5),
+                                        System.Windows.Forms.Cursor.Position.Y
+                                    );
+                                }
+                                if (h.PalmPosition.x < mousePos.Item1 + 6)
+                                {
+                                    System.Windows.Forms.Cursor.Position = new System.Drawing.Point(
+                                        System.Windows.Forms.Cursor.Position.X - (int)((mousePos.Item1 - h.PalmPosition.x) * 5),
+                                        System.Windows.Forms.Cursor.Position.Y
+                                    );
+                                }
+                                if (h.PalmPosition.y > mousePos.Item2 - 6)
+                                {
+                                    System.Windows.Forms.Cursor.Position = new System.Drawing.Point(
+                                        System.Windows.Forms.Cursor.Position.X,
+                                        System.Windows.Forms.Cursor.Position.Y - (int)((h.PalmPosition.y - mousePos.Item2) * 5)
+                                    );
+                                }
+                                if (h.PalmPosition.y < mousePos.Item2 + 6)
+                                {
+                                    System.Windows.Forms.Cursor.Position = new System.Drawing.Point(
+                                        System.Windows.Forms.Cursor.Position.X,
+                                        System.Windows.Forms.Cursor.Position.Y + (int)((mousePos.Item2 - h.PalmPosition.y) * 5)
+                                    );
+                                }
+                            }
 
-                            if (h.PalmPosition.x > mousePos.Item1 - 6)
-                            {
-                                System.Windows.Forms.Cursor.Position = new System.Drawing.Point(
-                                    System.Windows.Forms.Cursor.Position.X + (int)((h.PalmPosition.x - mousePos.Item1) * 5),
-                                    System.Windows.Forms.Cursor.Position.Y
-                                );
-                            }
-                            if (h.PalmPosition.x < mousePos.Item1 + 6)
-                            {
-                                System.Windows.Forms.Cursor.Position = new System.Drawing.Point(
-                                    System.Windows.Forms.Cursor.Position.X - (int)((mousePos.Item1 - h.PalmPosition.x) * 5),
-                                    System.Windows.Forms.Cursor.Position.Y
-                                );
-                            }
-                            if (h.PalmPosition.y > mousePos.Item2 - 6)
-                            {
-                                System.Windows.Forms.Cursor.Position = new System.Drawing.Point(
-                                    System.Windows.Forms.Cursor.Position.X,
-                                    System.Windows.Forms.Cursor.Position.Y - (int)((h.PalmPosition.y - mousePos.Item2) * 5)
-                                );
-                            }
-                            if (h.PalmPosition.y < mousePos.Item2 + 6)
-                            {
-                                System.Windows.Forms.Cursor.Position = new System.Drawing.Point(
-                                    System.Windows.Forms.Cursor.Position.X,
-                                    System.Windows.Forms.Cursor.Position.Y + (int)((mousePos.Item2 - h.PalmPosition.y) * 5)
-                                );
-                            }
 
+                            //mouse L R btn clics
                             if (h.StabilizedPalmPosition.DistanceTo(h.Fingers[1].StabilizedTipPosition) < 92.3)
                             {
                                 if (Include.GetAsyncKeyState(System.Windows.Forms.Keys.LButton) >= 0)
@@ -162,6 +167,7 @@ namespace LeapDeskController
                                     mouse_event(MouseFlags.Absolute | MouseFlags.RightUp, 0, 0, 0, UIntPtr.Zero);
                                 }
                             }
+
                         }
 
 

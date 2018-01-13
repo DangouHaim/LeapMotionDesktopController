@@ -14,3 +14,17 @@ c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDesk
 c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\bin\x86\Debug\LeapCSharp.NET4.5.dll
 c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\bin\x86\Debug\WinApi.dll
 c:\users\admin\documents\visual studio 2015\Projects\LeapDeskController\LeapDeskController\obj\x86\Debug\LeapDeskController.csprojResolveAssemblyReference.cache
+E:\work\projects\Visual Studio\LeapMotionDesktopController\LeapDeskController\bin\x86\Debug\LeapDeskController.exe.config
+E:\work\projects\Visual Studio\LeapMotionDesktopController\LeapDeskController\obj\x86\Debug\LeapDeskController.exe
+E:\work\projects\Visual Studio\LeapMotionDesktopController\LeapDeskController\obj\x86\Debug\LeapDeskController.pdb
+E:\work\projects\Visual Studio\LeapMotionDesktopController\LeapDeskController\bin\x86\Debug\LeapDeskController.exe
+E:\work\projects\Visual Studio\LeapMotionDesktopController\LeapDeskController\bin\x86\Debug\LeapDeskController.pdb
+E:\work\projects\Visual Studio\LeapMotionDesktopController\LeapDeskController\obj\x86\Debug\LeapDeskController.csprojResolveAssemblyReference.cache
+E:\work\projects\Visual Studio\LeapMotionDesktopController\LeapDeskController\obj\x86\Debug\MainWindow.g.cs
+E:\work\projects\Visual Studio\LeapMotionDesktopController\LeapDeskController\obj\x86\Debug\App.g.cs
+E:\work\projects\Visual Studio\LeapMotionDesktopController\LeapDeskController\obj\x86\Debug\LeapDeskController_MarkupCompile.cache
+E:\work\projects\Visual Studio\LeapMotionDesktopController\LeapDeskController\obj\x86\Debug\LeapDeskController_MarkupCompile.lref
+E:\work\projects\Visual Studio\LeapMotionDesktopController\LeapDeskController\obj\x86\Debug\MainWindow.baml
+E:\work\projects\Visual Studio\LeapMotionDesktopController\LeapDeskController\obj\x86\Debug\LeapDeskController.g.resources
+E:\work\projects\Visual Studio\LeapMotionDesktopController\LeapDeskController\obj\x86\Debug\LeapDeskController.Properties.Resources.resources
+E:\work\projects\Visual Studio\LeapMotionDesktopController\LeapDeskController\obj\x86\Debug\LeapDeskController.csproj.GenerateResource.Cache
